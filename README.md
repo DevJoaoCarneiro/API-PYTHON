@@ -8,8 +8,6 @@ Projeto de uma API simples para gerenciamento de tarefas.
 
 - Joao Victor Carneiro
 - Donato Valentino de Vellis
-- Felipe de souza
-- Luan Araujo Mello
 
 ## Endpoints
 
